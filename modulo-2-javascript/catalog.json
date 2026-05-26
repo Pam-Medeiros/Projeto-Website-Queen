@@ -1,0 +1,234 @@
+{
+  "categories": [
+    { "id": "cds", "name": "CDs" },
+    { "id": "vinis", "name": "Vinis" },
+    { "id": "merch", "name": "Merchandise" },
+    { "id": "livros", "name": "Livros & DVDs" }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "CD - Greatest Hits I",
+      "description": "A coletânea definitiva dos maiores sucessos do Queen",
+      "price": "15.99",
+      "category": "cds",
+      "image": "src/images/CD_ Greatest_Hits.png"
+    },
+    {
+      "id": "2",
+      "name": "CD - A Night at the Opera",
+      "description": "O álbum icônico de 1975 que inclui a obra-prima Bohemian Rhapsody. Remasterizado digitalmente.",
+      "price": "18.99",
+      "category": "cds",
+      "image": "src/images/capa_album_A Night at the Opera.webp"
+    },
+    {
+    "id": "3",
+    "name": "CD - A Day at the Races",
+    "description": "Álbum clássico de 1976 com destaque para Somebody to Love. Versão remasterizada.",
+    "price": "18.99",
+    "category": "cds",
+    "image": "src/images/capa_album_A Day at the Races.jpg"  
+    },
+    {
+    "id": "4",
+    "name": "CD - Bohemian Rhapsody (Soundtrack)",
+    "description": "Trilha sonora oficial do filme, com clássicos do Queen e versões ao vivo exclusivas.",
+    "price": "19.99",
+    "category": "cds",
+    "image": "src/images/CD_Bohemian_Rhapsody.webp"
+    },
+    {
+      "id": "5",
+      "name": "CD - Innuendo",
+      "description": "O penúltimo álbum de estúdio da banda, lançado em 1991. Inclui os hits Innuendo, I'm Going Slightly Mad e The Show Must Go On.",
+      "price": "16.99",
+      "category": "cds",
+      "image": "src/images/innuendo-capa-album.jpg"
+    },
+    {
+      "id": "6",
+      "name": "CD - Made in Heaven",
+      "description": "O último álbum de estúdio do Queen, lançado postumamente em 1995. Uma homenagem emocional a Freddie Mercury.",
+      "price": "17.99",
+      "category": "cds",
+      "image": "src/images/made-in-heaven.webp"
+    },
+    {
+  "id": "7",
+  "name": "CD - Greatest Hits II",
+  "description": "Coletânea com os maiores sucessos do Queen dos anos 80. Remasterizado.",
+  "price": "12.80",
+  "category": "cds",
+  "image": "src/images/CD_Greatest_Hits_II.webp"
+},
+{
+  "id": "8",
+  "name": "CD - Jazz",
+  "description": "Álbum de 1978 com hits como Don't Stop Me Now. Versão remasterizada.",
+  "price": "14.40",
+  "category": "cds",
+  "image": "src/images/capa_album_Jazz.jpg"
+},
+{
+  "id": "9",
+  "name": "CD - News of the World",
+  "description": "Álbum de 1977 com clássicos como We Will Rock You e We Are the Champions. Remasterizado.",
+  "price": "11.40",
+  "category": "cds",
+  "image": "src/images/capa_album_News of the World.jpg"
+},
+{
+  "id": "10",
+  "name": "CD - Queen 40",
+  "description": "Edição comemorativa dos 40 anos do Queen, com faixas remasterizadas e materiais especiais.",
+  "price": "64.90",
+  "category": "cds",
+  "image": "src/images/CD_Queen_40_Box.webp"
+},
+{
+  "id": "11",
+  "name": "CD - Queen I",
+  "description": "Álbum de estreia de 1973, marcando o início da sonoridade única do Queen. Remasterizado.",
+  "price": "18.90",
+  "category": "cds",
+  "image": "src/images/capa_album_queen.jpg"
+},
+{
+  "id": "12",
+  "name": "CD - Queen II",
+  "description": "Álbum de 1974 com sonoridade épica e faixas marcantes como The March of the Black Queen. Remasterizado.",
+  "price": "18.90",
+  "category": "cds",
+  "image": "src/images/capa_album_Queen_II.jpg"
+},
+{
+  "id": "13",
+  "name": "CD - The Game",
+  "description": "Álbum de 1980 com sucessos como Another One Bites the Dust e Crazy Little Thing Called Love. Remasterizado.",
+  "price": "14.10",
+  "category": "cds",
+  "image": "src/images/capa_album_The_Game.jpg"
+},
+{
+  "id": "14",
+  "name": "CD - The Works",
+  "description": "Álbum de 1984 com hits como Radio Ga Ga e I Want to Break Free. Remasterizado.",
+  "price": "14.20",
+  "category": "cds",
+  "image": "src/images/capa_album_The_Works.webp"
+},
+   {
+      "id": "15",
+      "name": "Vinil - News of the World",
+      "description": "Edição especial em vinil de 180g do álbum clássico de 1977, com We Will Rock You e We Are The Champions.",
+      "price": "29.99",
+      "category": "vinis",
+      "image": "src/images/capa_album_News of the World.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Vinil - The Game",
+      "description": "Edição limitada em vinil do álbum The Game de 1980, incluindo Another One Bites the Dust e Crazy Little Thing Called Love.",
+      "price": "32.99",
+      "category": "vinis",
+      "image": "src/images/capa_album_The_Game.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Vinil - A Kind of Magic",
+      "description": "Vinil especial do álbum trilha sonora do filme Highlander. Edição remasterizada de 2016.",
+      "price": "28.99",
+      "category": "vinis",
+      "image": "src/images/capa_album_A Kind of Magic.png"
+    },
+    {
+      "id": "18",
+      "name": "Box Set - The Studio Collection",
+      "description": "Box completo com todos os 15 álbuns de estúdio remasterizados em vinil de 180g. Edição limitada.",
+      "price": "299.99",
+      "category": "vinis",
+      "image": "src/images/Box_Set_The_Studio_Collection.webp"
+    },
+    {
+      "id": "19",
+      "name": "T-shirt A Night At The Opera Unisex",
+      "description": "T-shirt oficial 100% algodão. Disponível em vários tamanhos.",
+      "price": "14.00",
+      "category": "merch",
+      "image": "src/images/T-shirt_A_Night_At The_Opera_Unisex.jpg"
+    },
+    {
+      "id": "20",
+      "name": "T-Shirt Classic Crest Unisex Navy Blue",
+      "description": "T-shirt com material de alta qualidade.",
+      "price": "15.30",
+      "category": "merch",
+      "image": "src/images/T-shirt_Classic_Crest_Unisex_Navy_Blue.jpg"
+    },
+    {
+      "id": "21",
+      "name": "T-Shirt Don't Stop Me Now Unisex Black",
+      "description": "Camiseta preta unissex com estampa da música icónica Don't Stop Me Now.",
+      "price": "15.50",
+      "category": "merch",
+      "image": "src/images/T-shirt_Don't_Stop_Me_Now_Unisex_Black.webp"
+    },
+    {
+      "id": "22",
+      "name": "T-Shirt In Concert Unisex Black",
+      "description": "Camiseta preta unissex com estampa do Queen em concerto, estilo clássico.",
+      "price": "15.30",
+      "category": "merch",
+      "image": "src/images/T-shirt_In_Concert_Unisex_Black.jpg"
+    },
+    {
+      "id": "23",
+      "name": "Caneca Queen Crest",
+      "description": "Caneca de cerâmica premium com o brasão oficial da banda. Capacidade de 350ml.",
+      "price": "12.99",
+      "category": "merch",
+      "image": "src/images/caneca-crest.webp"
+    },
+    {
+      "id": "24",
+      "name": "Boné Queen Logo",
+      "description": "Boné ajustável com bordado do logo Queen. Design clássico e confortável.",
+      "price": "18.99",
+      "category": "merch",
+      "image": "src/images/Bone_Logo_Black.png"
+    },
+        {
+      "id": "25",
+      "name": "Boné Classic Brasão",
+      "description": "Boné preto com o clássico brasão do Queen, estilo casual e unissex.",
+      "price": "18.00",
+      "category": "merch",
+      "image": "src/images/Bone_Classic_Black_UNI.webp"
+    },
+      {
+      "id": "26",
+      "name": "Chapéu Face It Alone Black",
+      "description": "Chapéu preto com estampa Face It Alone, estilo unissex.",
+      "price": "19.90",
+      "category": "merch",
+      "image": "src/images/Chapeu_Face_it_Alone_Black.webp"
+    },
+    {
+      "id": "27",
+      "name": "DVD - Live at Wembley Stadium",
+      "description": "Performance completa do Queen no Wembley Stadium em 1986. Inclui extras e entrevistas exclusivas.",
+      "price": "19.99",
+      "category": "livros",
+      "image": "src/images/DVD_Live_at_Wembley_Stadium.jpg"
+    },
+    {
+      "id": "28",
+      "name": "Livro - Queen: The Complete Works",
+      "description": "Biografia completa da banda com centenas de fotografias exclusivas e histórias dos bastidores.",
+      "price": "34.99",
+      "category": "livros",
+      "image": "src/images/Livro_The_Complete_Works.webp"
+    }
+  ]
+}
